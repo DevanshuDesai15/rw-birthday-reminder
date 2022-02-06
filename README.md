@@ -1,3 +1,4 @@
 ## A simple Birthday Reminder app for React useState practice
 
-![Webpage](https://user-images.githubusercontent.com/46750877/152691864-d6315c17-c745-494f-9cb0-e5d5e15e9eba.PNG)
+
+![mockup](https://user-images.githubusercontent.com/46750877/152693374-9b968288-982f-46aa-a38e-e4d2686a10fc.png)
